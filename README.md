@@ -1,5 +1,5 @@
-Blinkit Data Analysis using Power BI
-1. **Loaded and Cleaned Data**: Cleaned and transformed Blinkit store data using Power Query for analysis.
+Blinkit Data Analysis using Power BI 
+**Loaded and Cleaned Data**: Cleaned and transformed Blinkit store data using Power Query for analysis.
 2.**Created Interactive Report**: Developed a powerful and interactive report dashboard using MS Power BI.
 3.**Sales Trend Analysis**: Analyzed sales trends and visualized key metrics like Total Sales, Average Sales, Number of Items, and Average Rating.
 4.**Geographic Sales Distribution**: Assessed the geographic distribution of sales across different locations.
